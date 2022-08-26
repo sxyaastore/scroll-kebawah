@@ -29,8 +29,6 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Hacker menu
 - Onwer menu
 ---------
-### Join grup diskusi Bot
-- [`klik disini`](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
-
-### Req Fitur?
-- [`klik disini`](https://wa.me/6288223674569)
+### FanxxzBOT
+- [`Grup diskusi`](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
+- [`Req Fitur`](https://wa.me/6288223674569)
