@@ -28,4 +28,5 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Database menu
 - Hacker menu
 - Onwer menu
-
+---------
+## Owner menu
