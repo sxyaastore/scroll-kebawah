@@ -28,4 +28,4 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Database menu
 - Hacker menu
 - Onwer menu
-Masih Dalam tahap pengembangan and tunggu next update
+
