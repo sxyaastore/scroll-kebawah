@@ -11,7 +11,7 @@ Persyaratan dalam menggunakan bot sudah jelas pasti ada, untuk menghindari spam 
 
 Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sudah di tetapkan.
 
-> Fitur yang tersedia di FanxxzBOT <
+> Fitur yang tersedia di FanxxzBOT
 - Menu grup
 - Webzone menu
 - Downloader
