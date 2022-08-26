@@ -29,4 +29,5 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Hacker menu
 - Onwer menu
 ---------
-## Owner menu
+### Join grup diskusi Bot
+[`klik disini`](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
