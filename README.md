@@ -10,6 +10,7 @@ Robot WhatsApp (Multi Device) yang dapat membantu kamu untuk mempermudah melakuk
 Persyaratan dalam menggunakan bot sudah jelas pasti ada, untuk menghindari spam dan lain lain sebagainya
 
 Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sudah di tetapkan.
+
 ---------
 Fitur yang tersedia di FanxxzBOT
 - Menu grup
