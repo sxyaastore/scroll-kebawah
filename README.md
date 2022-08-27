@@ -28,6 +28,9 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Database menu
 - Hacker menu
 - Onwer menu
+
+- [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/22c89a687be3705bbc467.jpg"></details>
+
 ---------
 ### FanxxzBOT
 - [`Grup diskusi`](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
