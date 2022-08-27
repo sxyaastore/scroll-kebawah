@@ -29,7 +29,7 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 - Hacker menu
 - Onwer menu
 
-- [x] Welcome <details><summary>Screenshot</summary><img src="https://telegra.ph/file/22c89a687be3705bbc467.jpg"></details>
+- [x] Menu <details><summary>Screenshot</summary><img src="https://telegra.ph/file/22c89a687be3705bbc467.jpg"></details>
 
 ---------
 ### FanxxzBOT
