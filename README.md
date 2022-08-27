@@ -32,3 +32,4 @@ Dengan menggunakan bot ini maka anda setuju dengan syarat dan ketentuan yang sud
 ### FanxxzBOT
 - [`Grup diskusi`](https://chat.whatsapp.com/KLfJ0fI1UnCLhRtv2aYoxv)
 - [`Req Fitur`](https://wa.me/6288223674569)
+- [`Bot number`](https://wa.me/6283142211902)
